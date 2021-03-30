@@ -10,6 +10,7 @@ public class Duck {
   int num=sc.nextInt();
   int i = 0;
   int r;
+  //function to check 0 is present or not
   while(num!=0)
   {
    r=num%10;
